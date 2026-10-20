@@ -1,0 +1,9 @@
+EMPLOYEE ONBOARDING PROCESSING SUMMARY
+======================================
+Successfully processed: 3
+Invalid or failed records: 1
+
+Row 2: Generated C:\Users\Admin\Documents\project\output\EMP001_Rahul Sharma\onboarding.txt
+Row 3: Generated C:\Users\Admin\Documents\project\output\EMP002_Sneha Rao\onboarding.txt
+Row 4: Generated C:\Users\Admin\Documents\project\output\EMP003_Arjun Reddy\onboarding.txt
+Row 5: Missing required field: role, Invalid joining date. Use YYYY-MM-DD.

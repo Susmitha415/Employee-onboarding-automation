@@ -1,0 +1,5 @@
+employee_id,name,department,role,joining_date,manager
+EMP001,Rahul Sharma,IT,Python Developer,2026-11-02,Priya Sharma
+EMP002,Sneha Rao,HR,HR Executive,2026-11-05,Kiran Kumar
+EMP003,Arjun Reddy,Finance,Analyst,2026-11-10,Ramesh Rao
+EMP004,Invalid Employee,IT,,invalid-date,Manager A

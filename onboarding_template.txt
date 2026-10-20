@@ -1,0 +1,23 @@
+EMPLOYEE ONBOARDING DOCUMENT
+
+Employee ID: {{employee_id}}
+Employee Name: {{name}}
+Department: {{department}}
+Role: {{role}}
+Joining Date: {{joining_date}}
+Reporting Manager: {{manager}}
+
+WELCOME TO THE ORGANIZATION!
+
+Dear {{name}},
+
+Welcome to the {{department}} department!
+
+Your designation is {{role}}, and your joining date is
+{{joining_date}}.
+
+Your reporting manager is {{manager}}.
+
+Please coordinate with your manager for onboarding activities.
+
+We wish you a successful career with our organization!

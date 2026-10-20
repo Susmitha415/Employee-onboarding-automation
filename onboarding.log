@@ -1,0 +1,43 @@
+2026-10-19 18:08:58,142 - INFO - Employee onboarding process started
+2026-10-19 18:12:21,823 - INFO - Employee onboarding process started
+2026-10-19 18:12:55,513 - INFO - Employee onboarding process started
+2026-10-19 18:22:12,928 - INFO - Employee onboarding process started
+2026-10-19 18:22:12,928 - INFO - Test file logging
+2026-10-19 18:25:07,932 - INFO - Employee onboarding process started
+2026-10-19 18:25:07,932 - INFO - Test file logging
+2026-10-19 18:28:01,311 - INFO - Employee onboarding process started
+2026-10-19 18:36:32,359 - INFO - Employee onboarding process started
+2026-10-19 18:39:53,160 - INFO - Employee onboarding process started
+2026-10-19 18:43:05,480 - INFO - Employee onboarding process started
+2026-10-19 18:43:05,480 - INFO - Test:Logging is working
+2026-10-19 18:46:55,962 - INFO - Employee onboarding process started
+2026-10-19 18:46:55,962 - INFO - Test:Logging is working
+2026-10-19 18:58:03,779 - INFO - Employee onboarding process started
+2026-10-19 19:05:15,876 - INFO - Employee onboarding process started
+2026-10-19 19:06:42,681 - INFO - Employee onboarding process started
+2026-10-19 19:15:32,765 - INFO - Employee onboarding process started
+2026-10-19 19:16:03,221 - INFO - Employee onboarding process started
+2026-10-19 19:17:58,470 - INFO - Employee onboarding process started
+2026-10-19 19:18:27,173 - INFO - Employee onboarding process started
+2026-10-19 19:22:09,677 - INFO - Employee onboarding process started
+2026-10-19 19:24:01,394 - INFO - Employee onboarding process started
+2026-10-19 19:41:58,848 - INFO - Employee onboarding process started
+2026-10-19 19:42:31,599 - INFO - Employee onboarding process started
+2026-10-19 19:47:27,467 - INFO - Employee onboarding process started
+2026-10-19 19:47:40,948 - INFO - Employee onboarding process started
+2026-10-19 19:47:48,837 - INFO - Employee onboarding process started
+2026-10-19 19:53:04,652 - INFO - Employee onboarding process started
+2026-10-19 20:08:43,529 - INFO - Employee onboarding process started
+2026-10-19 20:08:43,571 - INFO - Row 2: Generated C:\Users\Admin\Documents\project\output\EMP001_Rahul Sharma\onboarding.txt
+2026-10-19 20:08:43,575 - INFO - Row 3: Generated C:\Users\Admin\Documents\project\output\EMP002_Sneha Rao\onboarding.txt
+2026-10-19 20:08:43,577 - INFO - Row 4: Generated C:\Users\Admin\Documents\project\output\EMP003_Arjun Reddy\onboarding.txt
+2026-10-19 20:08:43,577 - WARNING - Row 5: Missing required field: role, Invalid joining date. Use YYYY-MM-DD.
+2026-10-19 20:08:43,578 - INFO - Processing summary saved to: C:\Users\Admin\Documents\project\reports\processing_summary.txt
+2026-10-19 20:08:43,579 - INFO - Employee onboarding process completed. Sucessful:3,Failed:1
+2026-10-19 20:09:15,041 - INFO - Employee onboarding process started
+2026-10-19 20:09:15,086 - INFO - Row 2: Generated C:\Users\Admin\Documents\project\output\EMP001_Rahul Sharma\onboarding.txt
+2026-10-19 20:09:15,088 - INFO - Row 3: Generated C:\Users\Admin\Documents\project\output\EMP002_Sneha Rao\onboarding.txt
+2026-10-19 20:09:15,091 - INFO - Row 4: Generated C:\Users\Admin\Documents\project\output\EMP003_Arjun Reddy\onboarding.txt
+2026-10-19 20:09:15,091 - WARNING - Row 5: Missing required field: role, Invalid joining date. Use YYYY-MM-DD.
+2026-10-19 20:09:15,093 - INFO - Processing summary saved to: C:\Users\Admin\Documents\project\reports\processing_summary.txt
+2026-10-19 20:09:15,107 - INFO - Employee onboarding process completed. Sucessful:3,Failed:1

@@ -1,0 +1,23 @@
+EMPLOYEE ONBOARDING DOCUMENT
+
+Employee ID: EMP001
+Employee Name: Rahul Sharma
+Department: IT
+Role: Python Developer
+Joining Date: 2026-11-02
+Reporting Manager: Priya Sharma
+
+WELCOME TO THE ORGANIZATION!
+
+Dear Rahul Sharma,
+
+Welcome to the IT department!
+
+Your designation is Python Developer, and your joining date is
+2026-11-02.
+
+Your reporting manager is Priya Sharma.
+
+Please coordinate with your manager for onboarding activities.
+
+We wish you a successful career with our organization!
